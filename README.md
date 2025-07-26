@@ -10,7 +10,7 @@ This is a simple command-line game simulation written in Python. It demonstrates
    Open your terminal and run:
 
    ```bash
-   python game.py
+   python main.py
    ```
 
 2. **Follow the Prompts**  
