@@ -3,6 +3,7 @@ def introduction():
         Welcome to my game engine.
         Good to have you here.
             😃😃😃
+        Enter the word help for more details.
     """)
 def game_engine():
     command = ""
